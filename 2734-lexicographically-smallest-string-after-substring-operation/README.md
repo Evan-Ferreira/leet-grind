@@ -62,3 +62,8 @@
 	<li><code>1 &lt;= s.length &lt;= 3 * 10<sup>5</sup></code></li>
 	<li><code>s</code> consists of lowercase English letters</li>
 </ul>
+
+## Solution 1
+
+Time Complexity O(N) \\
+Space Complexity O(N)
