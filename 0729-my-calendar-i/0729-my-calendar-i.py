@@ -1,41 +1,37 @@
+class TreeNode:
+    def __init__(self, start, end):
+        self.start = start
+        self.end = end
+        self.left = None
+        self.right = None
+    
+    def insert(self, start, end):
+        curr = self
+        while True:
+            if start >= curr.end:
+                if not curr.right:
+                    curr.right = TreeNode(start, end)
+                    return True
+                curr = curr.right
+            elif end <= curr.start:
+                if not curr.left:
+                    curr.left = TreeNode(start, end)
+                    return True
+                curr = curr.left
+            else:
+                return False
+
 class MyCalendar:
 
     def __init__(self):
-        self.events = []
+        self.root = None
 
     def book(self, startTime: int, endTime: int) -> bool:
-        if not self.events:
-            self.events.append([startTime, endTime])
+        if not self.root:
+            self.root = TreeNode(startTime, endTime)
             return True
 
-        if len(self.events) == 1:
-            if endTime <= self.events[0][0]:
-                self.events.insert(0, [startTime, endTime])
-            elif startTime >= self.events[0][1]:
-                self.events.insert(1, [startTime, endTime])
-            else:
-                return False
-            return True
-        
-        if endTime <= self.events[0][0]:
-            self.events.insert(0, [startTime, endTime])
-            return True
-
-        for i in range(1, len(self.events)):
-            preS, preE = self.events[i - 1][0], self.events[i - 1][1]
-            postS, postE = self.events[i][0], self.events[i][1]
-            
-            if preE <= startTime and endTime <= postS:
-                self.events.insert(i, [startTime, endTime])
-                return True
-
-            if startTime >= postE:
-                continue
-            
-            return False
-
-        self.events.append([startTime, endTime])
-        return True
+        return self.root.insert(startTime, endTime)
 
 
 # Your MyCalendar object will be instantiated and called as such:
