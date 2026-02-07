@@ -63,7 +63,7 @@ class LFUCache:
         
         if key not in self.valMap and len(self.valMap) == self.cap:
             res = self.listMap[self.lfuCnt].popLeft()
-            self.valMap.pop(res)
+            del self.valMap[res]
             self.countMap.pop(res)
         self.valMap[key] = value
         self.counter(key)
