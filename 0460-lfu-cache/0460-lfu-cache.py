@@ -1,43 +1,73 @@
+class ListNode:
+    def __init__(self, val, prev=None, next=None):
+        self.val = val
+        self.prev = prev
+        self.next = next
+    
+class LinkedList:
+    def __init__(self):
+        self.left = ListNode(0)
+        self.right = ListNode(0, self.left)
+        self.left.next = self.right
+        self.map = {}
+    
+    def length(self):
+        return len(self.map)
+    
+    def pushRight(self, val):
+        node = ListNode(val, self.right.prev, self.right)
+        self.map[val] = node
+        self.right.prev = node
+        node.prev.next = node
+    
+    def pop(self, val):
+        if val in self.map:
+            node = self.map[val]
+            next, prev = node.next, node.prev
+            next.prev = prev
+            prev.next = next
+            del self.map[val]
+        
+    def popLeft(self):
+        res = self.left.next.val
+        self.pop(self.left.next.val)
+        return res
+
 class LFUCache:
     def __init__(self, capacity: int):
-        self.heap = []
-        heapq.heapify(self.heap)
-        self.cache = defaultdict(list)
-        self.capacity = capacity
-        self.time = 0
+        self.cap = capacity
+        self.lfuCnt = 0
+        self.valMap = {}
+        self.countMap = defaultdict(int)
+        self.listMap = defaultdict(LinkedList)
+
+    def counter(self, key):
+        cnt = self.countMap[key]
+        self.countMap[key] += 1
+        self.listMap[cnt].pop(key)
+        self.listMap[cnt + 1].pushRight(key)
+
+        if cnt == self.lfuCnt and self.listMap[cnt].length() == 0:
+            self.lfuCnt += 1
 
     def get(self, key: int) -> int:
-        self.time += 1
-        if key not in self.cache:
+        if key not in self.valMap:
             return -1
-        
-        count, prevTime, k, v = self.cache[key]
-        self.cache[key][0] = count + 1
-        self.cache[key][1] = self.time
-        heapq.heapify(self.heap)
-        return v
+        self.counter(key)
+        return self.valMap[key]
 
-        
 
     def put(self, key: int, value: int) -> None:
-        self.time += 1
-
-        if key in self.cache:
-            count, prevTime, oldValue, _ = self.cache[key]
-            self.cache[key][0] = count + 1
-            self.cache[key][1] = self.time
-            self.cache[key][3] = value
-            heapq.heapify(self.heap)
+        if self.cap == 0:
             return
         
-        if len(self.cache) == self.capacity:
-            count, prevTime, k, v = heapq.heappop(self.heap)
-            del self.cache[k]
-        
-        new = [1, self.time, key, value]
-        self.cache[key] = new
-        heapq.heappush(self.heap, new)
-        
+        if key not in self.valMap and len(self.valMap) == self.cap:
+            res = self.listMap[self.lfuCnt].popLeft()
+            self.valMap.pop(res)
+            self.countMap.pop(res)
+        self.valMap[key] = value
+        self.counter(key)
+        self.lfuCnt = min(self.lfuCnt, self.countMap[key])
 
 
 # Your LFUCache object will be instantiated and called as such:
