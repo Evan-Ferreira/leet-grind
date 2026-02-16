@@ -1,26 +1,17 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
         ROWS, COLS = len(grid), len(grid[0])
-        q = [[grid[0][0], [0, 0]]]
-        heapq.heapify(q)
-        directions = [[1, 0], [0, 1]]
-        visited = set()
-
-        while q:
-            curr, [row, col] = heapq.heappop(q)
-
-            if (row, col) in visited:
-                continue
-            
-            visited.add((row, col))
-
-            if (row, col) == (ROWS - 1, COLS - 1):
-                return curr
-            
-            for dr, dc in directions:
-                r, c = row + dr, col + dc
-
-                if (r < 0 or c < 0 or r == ROWS or c == COLS or (r, c) in visited):
-                    continue
-                
-                heapq.heappush(q, [curr + grid[r][c], [r, c]])
+        dp = [[0 for _ in range(COLS + 1)] for _ in range(ROWS + 1)]
+        for r in range(ROWS):
+            dp[r][COLS] = float('inf')
+        for c in range(COLS):
+            dp[ROWS][c] = float('inf')
+        
+        dp[ROWS][COLS - 1] = 0
+        dp[ROWS - 1][COLS] = 0
+        
+        for r in range(ROWS - 1, -1, -1):
+            for c in range(COLS - 1, -1, -1):
+                dp[r][c] = min(dp[r + 1][c], dp[r][c + 1]) + grid[r][c]
+        print(dp)
+        return dp[0][0]
