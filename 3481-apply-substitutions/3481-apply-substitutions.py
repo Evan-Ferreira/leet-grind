@@ -5,21 +5,23 @@ class Solution:
         s = text.split("%")
 
         for key, val in replacements:
-            replace[key] = val.split("%")
+            replace[key] = val
 
         cache = {}
 
         def dfs(vals):
-            if len(vals) == 1:
-                return vals[0]
+            if not vals:
+                return ""
 
+            if vals in cache:
+                return cache[vals]
             tmp = ""
-            for v in vals:
+            for v in vals.split("%"):
                 if v in replace:
                     tmp += dfs(replace[v])
                 else:
                     tmp += v
-            
+            cache[vals] = tmp
             return tmp
 
         for k, v in replace.items():
