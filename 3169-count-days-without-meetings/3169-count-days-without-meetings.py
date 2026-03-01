@@ -7,7 +7,6 @@ class Solution:
 
         endMax = meetings[0][1]
         for start, end in meetings:
-            # print(start, end, endMax)
             if start - endMax > 1:
                 res += start - endMax - 1
             endMax = max(endMax, end) 
