@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
