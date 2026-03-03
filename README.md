@@ -27,4 +27,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
