@@ -28,7 +28,6 @@ class Solution:
                 curr = curr.next
         
         curr = dummy
-        print(q)
         while q:
             newNode = q.popleft()
             if not curr.next or newNode.val < curr.next.val:
