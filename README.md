@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0086-partition-list/) | Medium |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0708-insert-into-a-sorted-circular-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0086-partition-list/) | Medium |
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
