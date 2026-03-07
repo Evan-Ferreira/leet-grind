@@ -32,15 +32,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -54,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 <!---LeetCode Topics End-->
