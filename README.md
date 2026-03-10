@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
