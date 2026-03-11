@@ -1,7 +1,7 @@
 class Solution:
     def maxDistance(self, grid: List[List[int]]) -> int:
         ROWS, COLS = len(grid), len(grid[0])
-        res = [[float('inf') for c in range(COLS)] for r in range(ROWS)]
+        res = float('-inf')
         directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
         q = collections.deque()
 
@@ -9,8 +9,10 @@ class Solution:
             for c in range(COLS):
                 if grid[r][c] == 1:
                     q.append([r, c, 0])
+
         if len(q) == (ROWS * COLS) or len(q) == 0:
             return -1
+
         visited = set()
         while q:
             row, col, dist = q.popleft()
@@ -20,11 +22,6 @@ class Solution:
                     continue
                 visited.add((r, c))
                 q.append([r, c, dist + 1])
-                res[r][c] = min(res[r][c], dist + 1)
+                res = max(res, dist + 1)
 
-        ans = float('-inf')
-        for r in range(ROWS):
-            for c in range(COLS):
-                ans = max(ans, res[r][c])
-
-        return ans
+        return res
