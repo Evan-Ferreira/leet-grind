@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0760-find-anagram-mappings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0760-find-anagram-mappings/) | Easy |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
