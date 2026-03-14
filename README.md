@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Evan-Ferreira/leet-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0047-permutations-ii/) | Medium |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Evan-Ferreira/leet-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Binary Search Tree
