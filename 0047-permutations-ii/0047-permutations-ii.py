@@ -1,23 +1,29 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        used = set()
-        res = set()
+        res = []
         curr = []
+        nMap = defaultdict(int)
+        nUsed = len(nums)
+        for n in nums:
+            nMap[n] += 1
 
         def backtrack():
-            if len(used) == len(nums):
-                res.add(tuple(curr.copy()))
+            nonlocal nUsed
+            if nUsed == 0:
+                res.append(curr.copy())
                 return
             
-            for i in range(len(nums)):
-                if i in used:
+            for key, val in nMap.items():
+                if val == 0:
                     continue
                 
-                curr.append(nums[i])
-                used.add(i)
+                nUsed -= 1
+                curr.append(key)
+                nMap[key] -= 1
                 backtrack()
-                used.remove(i)
                 curr.pop()
+                nMap[key] += 1
+                nUsed += 1
         
         backtrack()
-        return list(res)
+        return res
