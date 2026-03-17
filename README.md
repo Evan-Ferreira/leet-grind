@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Evan-Ferreira/leet-grind/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0047-permutations-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
 | [0760-find-anagram-mappings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0760-find-anagram-mappings/) | Easy |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
