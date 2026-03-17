@@ -1,25 +1,20 @@
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
-        n = len(nums[0])
-        nums = set(nums)
+        strSet = { s for s in nums }
 
+        def backtrack(i, cur):
+            if i == len(nums):
+                res = "".join(cur)
+                return None if res in strSet else res
 
-        def dfs(curr):
-            if len(curr) == n and curr not in nums:
-                return curr
-            
-            if len(curr) == n:
-                return None
-            
-            ans1 = dfs(curr + "1")
-            ans0 = dfs(curr + "0")
-            if ans1:
-                return ans1
-            if ans0:
-                return ans0
-        
-        return dfs("")
-            
+            res = backtrack(i + 1, cur)
+            if res: return res
+
+            cur[i] = "1"
+            res = backtrack(i + 1, cur)
+            if res: return res
+
+        return backtrack(0, ["0" for s in nums])
             
             
 
