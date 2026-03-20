@@ -187,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0263-ugly-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/0263-ugly-number/) | Easy |
 <!---LeetCode Topics End-->
