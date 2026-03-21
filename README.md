@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
 | [0760-find-anagram-mappings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0760-find-anagram-mappings/) | Easy |
@@ -191,4 +193,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 <!---LeetCode Topics End-->
