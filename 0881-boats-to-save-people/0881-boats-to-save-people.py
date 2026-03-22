@@ -11,7 +11,7 @@ class Solution:
                 r -= 1
                 hc += 1
             
-            if curr + people[l] <= limit and hc != 2:
+            elif curr + people[l] <= limit and hc != 2:
                 curr += people[l]
                 l += 1
                 hc += 1
