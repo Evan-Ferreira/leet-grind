@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -100,12 +101,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1905-count-sub-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/1905-count-sub-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1905-count-sub-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/1905-count-sub-islands/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
