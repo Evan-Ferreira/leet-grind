@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0047-permutations-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Evan-Ferreira/leet-grind/tree/main/0075-sort-colors/) | Medium |
+| [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
@@ -249,4 +251,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
