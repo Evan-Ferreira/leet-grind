@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/Evan-Ferreira/leet-grind/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 ## Depth-First Search
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/Evan-Ferreira/leet-grind/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1905-count-sub-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/1905-count-sub-islands/) | Medium |
 ## Binary Tree
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/Evan-Ferreira/leet-grind/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
