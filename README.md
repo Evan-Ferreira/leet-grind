@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Evan-Ferreira/leet-grind/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0086-partition-list/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Evan-Ferreira/leet-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0047-permutations-ii/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Evan-Ferreira/leet-grind/tree/main/0075-sort-colors/) | Medium |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
