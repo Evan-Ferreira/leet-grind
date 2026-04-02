@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1426-counting-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/1426-counting-elements/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0760-find-anagram-mappings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0760-find-anagram-mappings/) | Easy |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
+| [1426-counting-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/1426-counting-elements/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
