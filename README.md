@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Evan-Ferreira/leet-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0047-permutations-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Evan-Ferreira/leet-grind/tree/main/0075-sort-colors/) | Medium |
 | [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Evan-Ferreira/leet-grind/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 ## Hash Table
