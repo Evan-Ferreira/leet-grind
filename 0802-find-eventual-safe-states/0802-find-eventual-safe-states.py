@@ -5,19 +5,18 @@ class Solution:
         def dfs(node):
             if node in visited:
                 return False
-                
-            if node in dp:
-                return dp[node]
 
             if len(graph[node]) == 0:
                 return True
 
-            dp[node] = True
+            ans = True
             visited.add(node)
             for nei in graph[node]:
-                dp[node] = dp[node] and dfs(nei)
+                ans = ans and dfs(nei)
             visited.remove(node)
-            return dp[node]
+            if ans:
+                graph[node] = []
+            return ans
 
         res = []
         for i in range(len(graph)):
