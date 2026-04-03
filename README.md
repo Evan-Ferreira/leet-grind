@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Evan-Ferreira/leet-grind/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0086-partition-list/) | Medium |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0708-insert-into-a-sorted-circular-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Evan-Ferreira/leet-grind/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
