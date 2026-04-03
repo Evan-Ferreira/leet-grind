@@ -1,18 +1,19 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        safe = {}
+        visited = set()
         def dfs(node):
-            if node in safe:
-                return safe[node]
+            if node in visited:
+                return False
 
             if len(graph[node]) == 0:
                 return True
 
-            safe[node] = False
+            visited.add(node)
             for nei in graph[node]:
                 if not dfs(nei):
                     return False
-            safe[node] = True
+            visited.remove(node)
+            graph[node] = []
             return True
 
         res = []
