@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/Evan-Ferreira/leet-grind/tree/main/0514-freedom-trail/) | Hard |
 | [0545-boundary-of-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Evan-Ferreira/leet-grind/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Evan-Ferreira/leet-grind/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0514-freedom-trail](https://github.com/Evan-Ferreira/leet-grind/tree/main/0514-freedom-trail/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Evan-Ferreira/leet-grind/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Evan-Ferreira/leet-grind/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -297,4 +300,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Evan-Ferreira/leet-grind/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
