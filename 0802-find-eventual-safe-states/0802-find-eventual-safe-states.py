@@ -1,6 +1,5 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        dp = {}
         visited = set()
         def dfs(node):
             if node in visited:
