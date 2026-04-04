@@ -3,11 +3,10 @@ class Solution:
         nums.sort()
 
         l = r = used = res = 0
-        while r < len(nums):
+        for r in range(len(nums)):
             used += (nums[r] - nums[r - 1]) * (r - l)
             while l < r and used > k:
                 used -= nums[r] - nums[l]
                 l += 1
             res = max(res, r - l + 1)
-            r += 1
         return res
