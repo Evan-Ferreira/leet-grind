@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1905-count-sub-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/1905-count-sub-islands/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Stack
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/Evan-Ferreira/leet-grind/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
@@ -230,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -256,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Evan-Ferreira/leet-grind/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Evan-Ferreira/leet-grind/tree/main/0948-bag-of-tokens/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Evan-Ferreira/leet-grind/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
