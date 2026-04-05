@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
 | [0514-freedom-trail](https://github.com/Evan-Ferreira/leet-grind/tree/main/0514-freedom-trail/) | Hard |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Evan-Ferreira/leet-grind/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [0441-arranging-coins](https://github.com/Evan-Ferreira/leet-grind/tree/main/0441-arranging-coins/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
