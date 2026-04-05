@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Evan-Ferreira/leet-grind/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Evan-Ferreira/leet-grind/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Evan-Ferreira/leet-grind/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/1905-count-sub-islands/) | Medium |
 ## Binary Tree
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Evan-Ferreira/leet-grind/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Evan-Ferreira/leet-grind/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/1905-count-sub-islands/) | Medium |
 ## Graph Theory
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Evan-Ferreira/leet-grind/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Evan-Ferreira/leet-grind/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
