@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/Evan-Ferreira/leet-grind/tree/main/0514-freedom-trail/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
+| [1496-path-crossing](https://github.com/Evan-Ferreira/leet-grind/tree/main/1496-path-crossing/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Evan-Ferreira/leet-grind/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Evan-Ferreira/leet-grind/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [1426-counting-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/1426-counting-elements/) | Easy |
+| [1496-path-crossing](https://github.com/Evan-Ferreira/leet-grind/tree/main/1496-path-crossing/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
