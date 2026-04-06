@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1426-counting-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/1426-counting-elements/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1564-put-boxes-into-the-warehouse-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/1564-put-boxes-into-the-warehouse-i/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/Evan-Ferreira/leet-grind/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1564-put-boxes-into-the-warehouse-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/1564-put-boxes-into-the-warehouse-i/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Evan-Ferreira/leet-grind/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Evan-Ferreira/leet-grind/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Evan-Ferreira/leet-grind/tree/main/0948-bag-of-tokens/) | Medium |
+| [1564-put-boxes-into-the-warehouse-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/1564-put-boxes-into-the-warehouse-i/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Evan-Ferreira/leet-grind/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
