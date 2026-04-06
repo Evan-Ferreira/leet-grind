@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Evan-Ferreira/leet-grind/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
