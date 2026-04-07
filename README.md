@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/Evan-Ferreira/leet-grind/tree/main/0514-freedom-trail/) | Hard |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Evan-Ferreira/leet-grind/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
