@@ -2,43 +2,24 @@ class Solution:
     def numDistinctIslands(self, grid: List[List[int]]) -> int:
         normalized_islands = set()
         visited = set()
-        directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
+        directions = [[0, 1, 'D'], [0, -1, 'U'], [1, 0, "R"], [-1, 0, "L"]]
         ROWS, COLS = len(grid), len(grid[0])
 
-        def bfs(row, col):
-            nonlocal visited
-            q = deque()
-            q.append((row, col))
-            local_visited = set()
-            local_visited.add((row, col))
-            minX, minY = row, col
+        def dfs(row, col, markers, direction):
+            visited.add((row, col))
+            markers.append(direction)
+            for dr, dc, d in directions:
+                r, c = row + dr, col + dc
+                if 0 <= r < ROWS and 0 <= c < COLS and (r, c) not in visited and grid[r][c] == 1:
+                    dfs(r, c, markers, d)
+            markers.append('B')  # backtrack
 
-            while q:
-                row, col = q.popleft()
-
-                for dr, dc in directions:
-                    r, c = row + dr, col + dc
-                    if (r == ROWS or c == COLS or r < 0 or c < 0 or (r, c) in local_visited or grid[r][c] == 0):
-                        continue
-
-                    minX = min(r, minX)
-                    minY = min(c, minY)
-                    local_visited.add((r, c))
-                    q.append((r, c))
-
-            visited |= local_visited
-            ans = []
-            for r, c in local_visited:
-                ans.append((r - minX, c - minY))
-            
-            ans.sort()
-            return tuple(ans)
-        
         for r in range(ROWS):
             for c in range(COLS):
                 if grid[r][c] == 1 and (r, c) not in visited:
-                    normalized = bfs(r, c)
-                    normalized_islands.add(normalized)
+                    markers = []
+                    dfs(r, c, markers, 'S')
+                    normalized_islands.add(tuple(markers))
         
         return len(normalized_islands)
 
