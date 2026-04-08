@@ -1,6 +1,6 @@
 class Solution:
     def numDistinctIslands(self, grid: List[List[int]]) -> int:
-        normalized_islands = []
+        normalized_islands = set()
         visited = set()
         directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
         ROWS, COLS = len(grid), len(grid[0])
@@ -27,30 +27,18 @@ class Solution:
                     q.append((r, c))
 
             visited |= local_visited
-            ans = set()
+            ans = []
             for r, c in local_visited:
-                ans.add((r - minX, c - minY))
+                ans.append((r - minX, c - minY))
             
-            return ans
+            ans.sort()
+            return tuple(ans)
         
         for r in range(ROWS):
             for c in range(COLS):
                 if grid[r][c] == 1 and (r, c) not in visited:
                     normalized = bfs(r, c)
-                    new = True
-                    for island in normalized_islands:
-                        isCurrIsland = True
-                        if len(island) != len(normalized):
-                            continue
-                        for row, col in island:
-                            if (row, col) not in normalized:
-                                isCurrIsland = False
-                                break
-                        if isCurrIsland:
-                            new = False
-                            break
-                    if new:
-                        normalized_islands.append(normalized)
+                    normalized_islands.add(normalized)
         
         return len(normalized_islands)
 
