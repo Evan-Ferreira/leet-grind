@@ -1,0 +1,24 @@
+class Solution:
+    def minCost(self, colors: str, neededTime: List[int]) -> int:
+        N = len(colors)
+        i = 1
+        res = 0
+        stack = []
+        while i < N:
+            stack.append(i - 1)
+            if colors[i] != colors[i - 1]:
+                stack.pop()
+            while i < N and colors[i] == colors[i - 1]:
+                stack.append(i)
+                i += 1
+            currMax = float('-inf')
+            curr = 0
+            while stack:
+                num = neededTime[stack.pop()]
+                currMax = max(currMax, num)
+                curr += num
+            if curr:
+                res += curr - currMax
+            i += 1
+        return res
+
