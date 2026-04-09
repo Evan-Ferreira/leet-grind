@@ -3,7 +3,6 @@ class Solution:
         N = len(colors)
         i = 1
         res = 0
-        stack = []
         while i < N:
             curr = currMax = neededTime[i - 1]
             while i < N and colors[i] == colors[i - 1]:
