@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Evan-Ferreira/leet-grind/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Evan-Ferreira/leet-grind/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Evan-Ferreira/leet-grind/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Evan-Ferreira/leet-grind/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
