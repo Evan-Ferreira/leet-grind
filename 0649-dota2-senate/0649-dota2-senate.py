@@ -1,18 +1,20 @@
 class Solution:
     def predictPartyVictory(self, senate: str) -> str:
         senate = list(senate)
-        cnt = i = 0
+        D, R = deque(), deque()
 
-        while i < len(senate):
-            c = senate[i]
-            if c == 'R':
-                if cnt < 0:
-                    senate.append('D')
-                cnt += 1
+        for i, s in enumerate(senate):
+            if s == 'D':
+                D.append(i)
             else:
-                if cnt > 0:
-                    senate.append('R')
-                cnt -= 1
-            i += 1
+                R.append(i)
+        
+        while D and R:
+            dTurn, rTurn = D.popleft(), R.popleft()
 
-        return "Radiant" if cnt > 0 else "Dire"
+            if rTurn < dTurn:
+                R.append(dTurn + len(senate))
+            else:
+                D.append(rTurn + len(senate))
+        
+        return "Radiant" if R else "Dire"
