@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Evan-Ferreira/leet-grind/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0086-partition-list/) | Medium |
+| [0189-rotate-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Evan-Ferreira/leet-grind/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Evan-Ferreira/leet-grind/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Evan-Ferreira/leet-grind/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
