@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Evan-Ferreira/leet-grind/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/Evan-Ferreira/leet-grind/tree/main/0050-powx-n/) | Medium |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Evan-Ferreira/leet-grind/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Evan-Ferreira/leet-grind/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/0263-ugly-number/) | Easy |
