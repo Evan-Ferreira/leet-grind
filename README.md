@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Evan-Ferreira/leet-grind/tree/main/0058-length-of-last-word/) | Easy |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Evan-Ferreira/leet-grind/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Evan-Ferreira/leet-grind/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0189-rotate-array/) | Medium |
