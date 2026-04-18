@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
+| [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Evan-Ferreira/leet-grind/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
 ## Greedy
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -425,5 +428,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
 <!---LeetCode Topics End-->
