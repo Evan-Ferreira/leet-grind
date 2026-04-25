@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Evan-Ferreira/leet-grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Evan-Ferreira/leet-grind/tree/main/0058-length-of-last-word/) | Easy |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Evan-Ferreira/leet-grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Evan-Ferreira/leet-grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Evan-Ferreira/leet-grind/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Evan-Ferreira/leet-grind/tree/main/0050-powx-n/) | Medium |
