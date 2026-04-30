@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Evan-Ferreira/leet-grind/tree/main/0735-asteroid-collision/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0760-find-anagram-mappings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0760-find-anagram-mappings/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1122-relative-sort-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1122-relative-sort-array/) | Easy |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
