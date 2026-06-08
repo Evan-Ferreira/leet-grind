@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Evan-Ferreira/leet-grind/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Evan-Ferreira/leet-grind/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Evan-Ferreira/leet-grind/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1094-car-pooling](https://github.com/Evan-Ferreira/leet-grind/tree/main/1094-car-pooling/) | Medium |
 | [1122-relative-sort-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1122-relative-sort-array/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Evan-Ferreira/leet-grind/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Evan-Ferreira/leet-grind/tree/main/0441-arranging-coins/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Evan-Ferreira/leet-grind/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
