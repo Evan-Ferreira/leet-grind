@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0086-partition-list/) | Medium |
 | [0189-rotate-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Evan-Ferreira/leet-grind/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Evan-Ferreira/leet-grind/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Evan-Ferreira/leet-grind/tree/main/0948-bag-of-tokens/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0502-ipo](https://github.com/Evan-Ferreira/leet-grind/tree/main/0502-ipo/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
 | [0694-number-of-distinct-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Evan-Ferreira/leet-grind/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Evan-Ferreira/leet-grind/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Evan-Ferreira/leet-grind/tree/main/0441-arranging-coins/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Evan-Ferreira/leet-grind/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -321,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Evan-Ferreira/leet-grind/tree/main/0075-sort-colors/) | Medium |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
 | [0502-ipo](https://github.com/Evan-Ferreira/leet-grind/tree/main/0502-ipo/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Evan-Ferreira/leet-grind/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Evan-Ferreira/leet-grind/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -431,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [0502-ipo](https://github.com/Evan-Ferreira/leet-grind/tree/main/0502-ipo/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1094-car-pooling](https://github.com/Evan-Ferreira/leet-grind/tree/main/1094-car-pooling/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Evan-Ferreira/leet-grind/tree/main/1642-furthest-building-you-can-reach/) | Medium |
