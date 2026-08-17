@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Evan-Ferreira/leet-grind/tree/main/0035-search-insert-position/) | Easy |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Evan-Ferreira/leet-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/Evan-Ferreira/leet-grind/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Evan-Ferreira/leet-grind/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
