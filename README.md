@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/0392-is-subsequence/) | Easy |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0514-freedom-trail](https://github.com/Evan-Ferreira/leet-grind/tree/main/0514-freedom-trail/) | Hard |
+| [0518-coin-change-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0518-coin-change-ii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Evan-Ferreira/leet-grind/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0741-cherry-pickup](https://github.com/Evan-Ferreira/leet-grind/tree/main/0741-cherry-pickup/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0502-ipo](https://github.com/Evan-Ferreira/leet-grind/tree/main/0502-ipo/) | Hard |
+| [0518-coin-change-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
@@ -513,4 +515,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Evan-Ferreira/leet-grind/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0518-coin-change-ii/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
