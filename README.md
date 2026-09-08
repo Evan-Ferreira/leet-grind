@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/Evan-Ferreira/leet-grind/tree/main/0514-freedom-trail/) | Hard |
 | [0606-construct-string-from-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0649-dota2-senate](https://github.com/Evan-Ferreira/leet-grind/tree/main/0649-dota2-senate/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [1496-path-crossing](https://github.com/Evan-Ferreira/leet-grind/tree/main/1496-path-crossing/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0518-coin-change-ii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Evan-Ferreira/leet-grind/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0741-cherry-pickup](https://github.com/Evan-Ferreira/leet-grind/tree/main/0741-cherry-pickup/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
