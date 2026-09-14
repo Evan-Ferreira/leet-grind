@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/Evan-Ferreira/leet-grind/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Evan-Ferreira/leet-grind/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
