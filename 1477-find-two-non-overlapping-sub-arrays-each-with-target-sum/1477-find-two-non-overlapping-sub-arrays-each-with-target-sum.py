@@ -30,8 +30,6 @@ class Solution:
                 postMinLength[N - 1 - i] = matches[N - 1 - i][1] - matches[N - 1 - i][0] + 1
             else:
                 postMinLength[N - 1 - i] = min(matches[N - 1 - i][1] - matches[N - 1 - i][0] + 1, postMinLength[N - i])
-        print(matches)
-        print(postMinLength)
         matchI= 1
         for i in range(N - 1):
             beg1, end1 = matches[i]
