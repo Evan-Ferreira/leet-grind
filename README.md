@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Evan-Ferreira/leet-grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Evan-Ferreira/leet-grind/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Heap (Priority Queue)
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Evan-Ferreira/leet-grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Evan-Ferreira/leet-grind/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
