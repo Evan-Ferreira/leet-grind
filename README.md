@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [0441-arranging-coins](https://github.com/Evan-Ferreira/leet-grind/tree/main/0441-arranging-coins/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Evan-Ferreira/leet-grind/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Evan-Ferreira/leet-grind/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/1140-stone-game-ii/) | Medium |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Evan-Ferreira/leet-grind/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Evan-Ferreira/leet-grind/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Evan-Ferreira/leet-grind/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Data Stream
