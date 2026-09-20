@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Evan-Ferreira/leet-grind/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0867-transpose-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/Evan-Ferreira/leet-grind/tree/main/1094-car-pooling/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Evan-Ferreira/leet-grind/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
