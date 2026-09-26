@@ -33,7 +33,7 @@ class Solution:
                     else:
                         break
                 if l == r and node.value:
-                    res += node.value
+                    res.append(node.value)
                 else:
                     res.append("?")
                 l = r
