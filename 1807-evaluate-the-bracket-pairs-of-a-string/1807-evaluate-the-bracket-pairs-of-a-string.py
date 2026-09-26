@@ -20,7 +20,7 @@ class Solution:
             trie.insert(key, value)
         
         N = len(s)
-        res = []
+        res = ""
         l = 0
         for r in range(N):
             if s[l] == "(" and s[r] == ")":
@@ -35,15 +35,15 @@ class Solution:
                 if l == r and node.value:
                     res += node.value
                 else:
-                    res.append("?")
+                    res += "?"
                 l = r
             elif s[l] == "(":
                 if r == len(s) - 1:
-                    res += s[l:].split()
+                    res += s[l:]
                 
             else:
                 if s[r] != "(":
-                    res.append(s[r])
+                    res += s[r]
                 l += 1
         return "".join(res)
             
