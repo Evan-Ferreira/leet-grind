@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Evan-Ferreira/leet-grind/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Evan-Ferreira/leet-grind/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Evan-Ferreira/leet-grind/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Evan-Ferreira/leet-grind/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Evan-Ferreira/leet-grind/tree/main/1718-construct-the-lexicographically-largest-valid-sequence/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Evan-Ferreira/leet-grind/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1905-count-sub-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/1905-count-sub-islands/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1496-path-crossing](https://github.com/Evan-Ferreira/leet-grind/tree/main/1496-path-crossing/) | Easy |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
