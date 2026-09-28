@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Evan-Ferreira/leet-grind/tree/main/0649-dota2-senate/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Evan-Ferreira/leet-grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [1496-path-crossing](https://github.com/Evan-Ferreira/leet-grind/tree/main/1496-path-crossing/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Evan-Ferreira/leet-grind/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Evan-Ferreira/leet-grind/tree/main/0735-asteroid-collision/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Evan-Ferreira/leet-grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Evan-Ferreira/leet-grind/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Evan-Ferreira/leet-grind/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -545,4 +547,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0518-coin-change-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Evan-Ferreira/leet-grind/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
