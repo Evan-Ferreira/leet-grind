@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Evan-Ferreira/leet-grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
+| [0359-logger-rate-limiter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Evan-Ferreira/leet-grind/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0359-logger-rate-limiter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0359-logger-rate-limiter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
