@@ -4,11 +4,10 @@ class Logger:
         self.seen = {}
         
     def shouldPrintMessage(self, timestamp: int, message: str) -> bool:
-        res = False
         if (message in self.seen and (timestamp - self.seen[message]) >= 10) or message not in self.seen:
-            res = True
             self.seen[message] = timestamp
-        return res
+            return True
+        return False
         
 
 
