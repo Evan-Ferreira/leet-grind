@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0204-count-primes/) | Medium |
 | [0247-strobogrammatic-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Evan-Ferreira/leet-grind/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Evan-Ferreira/leet-grind/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/Evan-Ferreira/leet-grind/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0741-cherry-pickup](https://github.com/Evan-Ferreira/leet-grind/tree/main/0741-cherry-pickup/) | Hard |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Evan-Ferreira/leet-grind/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Evan-Ferreira/leet-grind/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0867-transpose-matrix/) | Easy |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Evan-Ferreira/leet-grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Evan-Ferreira/leet-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
@@ -415,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Evan-Ferreira/leet-grind/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
