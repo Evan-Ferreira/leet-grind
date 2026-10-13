@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1122-relative-sort-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1122-relative-sort-array/) | Easy |
 | [1166-design-file-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1166-design-file-system/) | Medium |
+| [1244-design-a-leaderboard](https://github.com/Evan-Ferreira/leet-grind/tree/main/1244-design-a-leaderboard/) | Medium |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [1426-counting-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/1426-counting-elements/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/Evan-Ferreira/leet-grind/tree/main/1094-car-pooling/) | Medium |
 | [1122-relative-sort-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1122-relative-sort-array/) | Easy |
+| [1244-design-a-leaderboard](https://github.com/Evan-Ferreira/leet-grind/tree/main/1244-design-a-leaderboard/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Evan-Ferreira/leet-grind/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1564-put-boxes-into-the-warehouse-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/1564-put-boxes-into-the-warehouse-i/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Evan-Ferreira/leet-grind/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [1166-design-file-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1166-design-file-system/) | Medium |
+| [1244-design-a-leaderboard](https://github.com/Evan-Ferreira/leet-grind/tree/main/1244-design-a-leaderboard/) | Medium |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
 ## Greedy
