@@ -10,7 +10,6 @@ class FileSystem:
     def createPath(self, path: str, value: int) -> bool:
         directories = path.split("/")[1:]
         curr = self.root
-        print(path, value)
         for i, d in enumerate(directories):
             if d not in curr.children and i != (len(directories) - 1):
                 return False
