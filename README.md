@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Evan-Ferreira/leet-grind/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Evan-Ferreira/leet-grind/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -579,4 +581,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1166-design-file-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1166-design-file-system/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
