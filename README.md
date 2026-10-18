@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Evan-Ferreira/leet-grind/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
