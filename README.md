@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/Evan-Ferreira/leet-grind/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Evan-Ferreira/leet-grind/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Evan-Ferreira/leet-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Search Tree
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Evan-Ferreira/leet-grind/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Evan-Ferreira/leet-grind/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Evan-Ferreira/leet-grind/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
