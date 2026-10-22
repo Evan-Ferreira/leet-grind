@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0353-design-snake-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0353-design-snake-game/) | Medium |
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
+| [0456-132-pattern](https://github.com/Evan-Ferreira/leet-grind/tree/main/0456-132-pattern/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0490-the-maze](https://github.com/Evan-Ferreira/leet-grind/tree/main/0490-the-maze/) | Medium |
 | [0502-ipo](https://github.com/Evan-Ferreira/leet-grind/tree/main/0502-ipo/) | Hard |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Evan-Ferreira/leet-grind/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Evan-Ferreira/leet-grind/tree/main/0441-arranging-coins/) | Easy |
+| [0456-132-pattern](https://github.com/Evan-Ferreira/leet-grind/tree/main/0456-132-pattern/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Evan-Ferreira/leet-grind/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Evan-Ferreira/leet-grind/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Evan-Ferreira/leet-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0456-132-pattern](https://github.com/Evan-Ferreira/leet-grind/tree/main/0456-132-pattern/) | Medium |
 | [0682-baseball-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Evan-Ferreira/leet-grind/tree/main/0735-asteroid-collision/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Evan-Ferreira/leet-grind/tree/main/0456-132-pattern/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
 ## Bit Manipulation
@@ -464,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Evan-Ferreira/leet-grind/tree/main/0456-132-pattern/) | Medium |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Evan-Ferreira/leet-grind/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Queue
