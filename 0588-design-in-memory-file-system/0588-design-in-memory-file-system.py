@@ -23,7 +23,6 @@ class FileSystem:
 
     def ls(self, path: str) -> list[str]:
         curr = self._navigate(path)
-        print(path, curr.name)
         if curr.isFile:
             return [curr.name]
         return sorted(curr.children.keys())
