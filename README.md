@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
+| [2043-simple-bank-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/2043-simple-bank-system/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/Evan-Ferreira/leet-grind/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Evan-Ferreira/leet-grind/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Evan-Ferreira/leet-grind/tree/main/0867-transpose-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/Evan-Ferreira/leet-grind/tree/main/1094-car-pooling/) | Medium |
+| [2043-simple-bank-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/2043-simple-bank-system/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Evan-Ferreira/leet-grind/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
+| [2043-simple-bank-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/2043-simple-bank-system/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Evan-Ferreira/leet-grind/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Evan-Ferreira/leet-grind/tree/main/2421-number-of-good-paths/) | Hard |
@@ -456,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1244-design-a-leaderboard](https://github.com/Evan-Ferreira/leet-grind/tree/main/1244-design-a-leaderboard/) | Medium |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
+| [2043-simple-bank-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/2043-simple-bank-system/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
