@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Evan-Ferreira/leet-grind/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2043-simple-bank-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/2043-simple-bank-system/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Evan-Ferreira/leet-grind/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Evan-Ferreira/leet-grind/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/Evan-Ferreira/leet-grind/tree/main/0456-132-pattern/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/Evan-Ferreira/leet-grind/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [2021-brightest-position-on-street](https://github.com/Evan-Ferreira/leet-grind/tree/main/2021-brightest-position-on-street/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Evan-Ferreira/leet-grind/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
 | [1797-design-authentication-manager](https://github.com/Evan-Ferreira/leet-grind/tree/main/1797-design-authentication-manager/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Evan-Ferreira/leet-grind/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2043-simple-bank-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/2043-simple-bank-system/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-furthest-building-you-can-reach](https://github.com/Evan-Ferreira/leet-grind/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Evan-Ferreira/leet-grind/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Evan-Ferreira/leet-grind/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Evan-Ferreira/leet-grind/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
 | [0901-online-stock-span](https://github.com/Evan-Ferreira/leet-grind/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Evan-Ferreira/leet-grind/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
