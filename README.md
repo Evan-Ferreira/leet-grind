@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0708-insert-into-a-sorted-circular-linked-list/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1797-design-authentication-manager](https://github.com/Evan-Ferreira/leet-grind/tree/main/1797-design-authentication-manager/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Evan-Ferreira/leet-grind/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1496-path-crossing](https://github.com/Evan-Ferreira/leet-grind/tree/main/1496-path-crossing/) | Easy |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Evan-Ferreira/leet-grind/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
+| [1797-design-authentication-manager](https://github.com/Evan-Ferreira/leet-grind/tree/main/1797-design-authentication-manager/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1166-design-file-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1166-design-file-system/) | Medium |
 | [1244-design-a-leaderboard](https://github.com/Evan-Ferreira/leet-grind/tree/main/1244-design-a-leaderboard/) | Medium |
 | [1396-design-underground-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/1396-design-underground-system/) | Medium |
+| [1797-design-authentication-manager](https://github.com/Evan-Ferreira/leet-grind/tree/main/1797-design-authentication-manager/) | Medium |
 | [2013-detect-squares](https://github.com/Evan-Ferreira/leet-grind/tree/main/2013-detect-squares/) | Medium |
 | [2043-simple-bank-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/2043-simple-bank-system/) | Medium |
 ## Greedy
@@ -615,4 +618,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Evan-Ferreira/leet-grind/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1797-design-authentication-manager](https://github.com/Evan-Ferreira/leet-grind/tree/main/1797-design-authentication-manager/) | Medium |
 <!---LeetCode Topics End-->
