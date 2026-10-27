@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Evan-Ferreira/leet-grind/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0086-partition-list/) | Medium |
+| [0355-design-twitter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0355-design-twitter/) | Medium |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/0708-insert-into-a-sorted-circular-linked-list/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Evan-Ferreira/leet-grind/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Evan-Ferreira/leet-grind/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0353-design-snake-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0353-design-snake-game/) | Medium |
+| [0355-design-twitter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0355-design-twitter/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Evan-Ferreira/leet-grind/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Evan-Ferreira/leet-grind/tree/main/0389-find-the-difference/) | Easy |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Evan-Ferreira/leet-grind/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/Evan-Ferreira/leet-grind/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0353-design-snake-game](https://github.com/Evan-Ferreira/leet-grind/tree/main/0353-design-snake-game/) | Medium |
+| [0355-design-twitter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0355-design-twitter/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0362-design-hit-counter/) | Medium |
 | [0588-design-in-memory-file-system](https://github.com/Evan-Ferreira/leet-grind/tree/main/0588-design-in-memory-file-system/) | Hard |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/Evan-Ferreira/leet-grind/tree/main/0264-ugly-number-ii/) | Medium |
+| [0355-design-twitter](https://github.com/Evan-Ferreira/leet-grind/tree/main/0355-design-twitter/) | Medium |
 | [0502-ipo](https://github.com/Evan-Ferreira/leet-grind/tree/main/0502-ipo/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Evan-Ferreira/leet-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1094-car-pooling](https://github.com/Evan-Ferreira/leet-grind/tree/main/1094-car-pooling/) | Medium |
