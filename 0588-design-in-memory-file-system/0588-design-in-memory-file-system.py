@@ -1,42 +1,46 @@
 class Node:
-    def __init__(self, name = "", isFile = False):
-        self.isFile = isFile
-        self.name = name
-        self.children = defaultdict(Node)
+    def __init__(self):
+        self.name = ""
+        self.isFile = False
         self.content = ""
+        self.children = defaultdict(Node)
 
 class FileSystem:
+
     def __init__(self):
-        self.root = Node("/")
-    
-    def _navigate(self, path):
-        directories = path.split('/')[1:]
-        curr = self.root
-
-        if len(directories) == 1 and directories[0] == "":
-            return curr
-
-        for d in directories:
-            curr = curr.children[d]
-            curr.name = d
-        return curr
+        self.root = Node()
 
     def ls(self, path: str) -> list[str]:
-        curr = self._navigate(path)
-        if curr.isFile:
-            return [curr.name]
-        return sorted(curr.children.keys())
+        path = [] if len(path) == 1 else path.split("/")[1:]
+        curr = self.root
+        for p in path:
+            curr = curr.children[p]
+            curr.name = p
+        return [curr.name] if curr.isFile else sorted(curr.children.keys())
 
     def mkdir(self, path: str) -> None:
-        self._navigate(path)
+        path = [] if len(path) == 1 else path.split("/")[1:]
+        curr = self.root
+        for p in path:
+            curr = curr.children[p]
+            curr.name = p
+            
 
     def addContentToFile(self, filePath: str, content: str) -> None:
-        curr = self._navigate(filePath)
+        path = [] if len(filePath) == 1 else filePath.split("/")[1:]
+        curr = self.root
+        for p in path:
+            curr = curr.children[p]
+            curr.name = p
         curr.isFile = True
         curr.content += content
 
     def readContentFromFile(self, filePath: str) -> str:
-        curr = self._navigate(filePath)
+        path = [] if len(filePath) == 1 else filePath.split("/")[1:]
+        curr = self.root
+        for p in path:
+            curr = curr.children[p]
+            curr.name = p
         return curr.content
 
 
