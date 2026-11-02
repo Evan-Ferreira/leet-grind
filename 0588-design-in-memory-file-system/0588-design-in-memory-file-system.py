@@ -9,38 +9,29 @@ class FileSystem:
 
     def __init__(self):
         self.root = Node()
-
-    def ls(self, path: str) -> list[str]:
+    
+    def _insert(self, path):
         path = [] if len(path) == 1 else path.split("/")[1:]
         curr = self.root
         for p in path:
             curr = curr.children[p]
             curr.name = p
+        return curr
+
+    def ls(self, path: str) -> list[str]:
+        curr = self._insert(path)
         return [curr.name] if curr.isFile else sorted(curr.children.keys())
 
     def mkdir(self, path: str) -> None:
-        path = [] if len(path) == 1 else path.split("/")[1:]
-        curr = self.root
-        for p in path:
-            curr = curr.children[p]
-            curr.name = p
-            
+        self._insert(path)
 
     def addContentToFile(self, filePath: str, content: str) -> None:
-        path = [] if len(filePath) == 1 else filePath.split("/")[1:]
-        curr = self.root
-        for p in path:
-            curr = curr.children[p]
-            curr.name = p
+        curr = self._insert(filePath)
         curr.isFile = True
         curr.content += content
 
     def readContentFromFile(self, filePath: str) -> str:
-        path = [] if len(filePath) == 1 else filePath.split("/")[1:]
-        curr = self.root
-        for p in path:
-            curr = curr.children[p]
-            curr.name = p
+        curr = self._insert(filePath)
         return curr.content
 
 
